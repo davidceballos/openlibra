@@ -1,4 +1,3 @@
-
 Proyecto open libra
 
 www.openlibra.com
@@ -6,7 +5,7 @@ www.openlibra.com
 Mediante api conseguir los siguientes datos
 
 
-    Conocer un libro mediante su ID
+    Conocer el autor de un libro mediante su ID
 
     Conocer los 10 libros más votados
 
