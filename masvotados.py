@@ -10,8 +10,7 @@ final = []
 for i in sincomas:
     final.append(i+"]}")
 
-    
-for i in xrange(0,10):
-    print json.loads(final[i])["author"]
-    print json.loads(final[i])["title"]
-    print json.loads(final[i])["ID"]
+for i in final:
+    print json.loads(i)["author"]
+    print json.loads(i)["title"]
+    print json.loads(i)["ID"]
