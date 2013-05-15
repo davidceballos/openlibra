@@ -6,6 +6,7 @@
   </head>
   <body>
     <br> Elige una categoria </br>
+    <br>
 <form action="/respuestacategoria" method="POST">
   <select name="categoria">
     <option selected>Elige categoria</option>
@@ -34,6 +35,7 @@
     <option value="libros_software_libre">Software Libre</option>
     <option value="textos-academicos-biblioteca">Textos Academicos</option>
     <option value="libros_web_2_0_y_social_media">Web 2.0 y Social media</option>
+    <br>
   </select>
       <input type='submit' value='Submit'/>
 </form>

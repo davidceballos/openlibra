@@ -12,6 +12,7 @@
        %for i in total:
        <li> {{i}} </li>
        %end
+    <p> <a href="/">Volver al indice</a></p>
   </body>
 </html>
 

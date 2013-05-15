@@ -7,7 +7,9 @@
   <body>
     <form action="/respuestaautor" method="POST"> 
       <br> Dime un autor y te mostrare sus libros con sus respectivos codigos <br> 
+	<br>
 	<input type="text" size="20" name="autor_escrito">
+      <br>
       <br>
       <input type='submit' value='Submit'/>
     </form>

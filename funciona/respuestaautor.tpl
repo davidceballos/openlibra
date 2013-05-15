@@ -12,6 +12,7 @@
        %for i in libros:
        <li> {{i}} </li>
        %end
+    <p> <a href="/">Volver al indice</a></p>
   </body>
 </html>
 
